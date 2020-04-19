@@ -1,4 +1,4 @@
-# Monkey Problem
+# Monkey Banana Problem
 
 In this reality monkeys use fruits as money.Values:1 banana for 2 apples or 4 oranges or 10 peaches or 20 grapes.How many combination of fruit can a monkey get if it has x bananas at start?
 
